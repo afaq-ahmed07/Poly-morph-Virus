@@ -26,5 +26,5 @@ This project is a polymorphic virus designed for educational purposes to demonst
 3. Compile the program using GCC:
    ```bash
    gcc -c main.c -o main.o
-  ```bash
    gcc main.o -o main
+
